@@ -1,0 +1,229 @@
+﻿region,category,parameter,mode,powertrain,year,unit,value
+India,Historical,EV sales share,Vans,EV,2016,percent,0.056000002
+India,Historical,EV stock share,Vans,EV,2016,percent,0.0032
+India,Historical,EV sales,Vans,BEV,2016,Vehicles,180
+India,Historical,EV stock,Vans,BEV,2016,Vehicles,180
+India,Historical,Oil displacement Mbd,Vans,EV,2016,Milion barrels per day,8.90E-06
+India,Historical,"Oil displacement, million lge",Vans,EV,2016,"Oil displacement, million lge",0.50999999
+India,Historical,Oil displacement Mbd,Vans,EV,2017,Milion barrels per day,7.10E-05
+India,Historical,"Oil displacement, million lge",Vans,EV,2017,"Oil displacement, million lge",4.099999905
+India,Historical,EV stock,Vans,BEV,2017,Vehicles,1400
+India,Historical,EV sales,Vans,BEV,2017,Vehicles,1200
+India,Historical,EV stock share,Vans,EV,2017,percent,0.024
+India,Historical,EV sales share,Vans,EV,2017,percent,0.310000002
+India,Historical,EV sales share,Vans,EV,2018,percent,0.289999992
+India,Historical,EV stock share,Vans,EV,2018,percent,0.046
+India,Historical,EV sales,Vans,BEV,2018,Vehicles,1500
+India,Historical,EV stock,Vans,BEV,2018,Vehicles,2900
+India,Historical,Oil displacement Mbd,Vans,EV,2018,Milion barrels per day,0.00014
+India,Historical,"Oil displacement, million lge",Vans,EV,2018,"Oil displacement, million lge",7.900000095
+India,Historical,Oil displacement Mbd,Vans,EV,2019,Milion barrels per day,0.00016
+India,Historical,"Oil displacement, million lge",Vans,EV,2019,"Oil displacement, million lge",9.100000381
+India,Historical,EV stock,Vans,BEV,2019,Vehicles,3700
+India,Historical,EV sales,Vans,BEV,2019,Vehicles,790
+India,Historical,EV stock share,Vans,EV,2019,percent,0.055
+India,Historical,EV sales share,Vans,EV,2019,percent,0.159999996
+India,Historical,EV sales share,Vans,EV,2020,percent,0.230000004
+India,Historical,EV stock share,Vans,EV,2020,percent,0.066
+India,Historical,EV sales,Vans,BEV,2020,Vehicles,1000
+India,Historical,EV stock,Vans,BEV,2020,Vehicles,4700
+India,Historical,Oil displacement Mbd,Vans,EV,2020,Milion barrels per day,0.00017
+India,Historical,"Oil displacement, million lge",Vans,EV,2020,"Oil displacement, million lge",9.800000191
+India,Historical,Oil displacement Mbd,Vans,EV,2021,Milion barrels per day,0.00024
+India,Historical,"Oil displacement, million lge",Vans,EV,2021,"Oil displacement, million lge",14
+India,Historical,EV stock,Vans,BEV,2021,Vehicles,6400
+India,Historical,EV sales,Vans,BEV,2021,Vehicles,1700
+India,Historical,EV stock share,Vans,EV,2021,percent,0.086000003
+India,Historical,EV sales share,Vans,EV,2021,percent,0.419999987
+India,Historical,EV sales share,Vans,EV,2022,percent,0.097999997
+India,Historical,EV stock share,Vans,EV,2022,percent,0.088
+India,Historical,EV sales,Vans,BEV,2022,Vehicles,510
+India,Historical,EV stock,Vans,BEV,2022,Vehicles,6900
+India,Historical,Oil displacement Mbd,Vans,EV,2022,Milion barrels per day,0.00026
+India,Historical,"Oil displacement, million lge",Vans,EV,2022,"Oil displacement, million lge",15
+India,Historical,Oil displacement Mbd,Vans,EV,2023,Milion barrels per day,0.00023
+India,Historical,"Oil displacement, million lge",Vans,EV,2023,"Oil displacement, million lge",13
+India,Historical,EV stock,Vans,BEV,2023,Vehicles,7300
+India,Historical,EV sales,Vans,BEV,2023,Vehicles,350
+India,Historical,EV stock share,Vans,EV,2023,percent,0.086999997
+India,Historical,EV sales share,Vans,EV,2023,percent,0.061999999
+India,Historical,Electricity demand,Vans,EV,2023,GWh,41
+India,Historical,EV stock,Cars,BEV,2010,Vehicles,880
+India,Historical,EV sales,Cars,BEV,2010,Vehicles,450
+India,Historical,EV sales share,Cars,EV,2010,percent,0.021
+India,Historical,EV stock share,Cars,EV,2010,percent,0.005
+India,Historical,Oil displacement Mbd,Cars,EV,2010,Milion barrels per day,2.20E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2010,"Oil displacement, million lge",1.299999952
+India,Historical,Oil displacement Mbd,Cars,EV,2011,Milion barrels per day,4.50E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2011,"Oil displacement, million lge",2.599999905
+India,Historical,EV stock share,Cars,EV,2011,percent,0.0067
+India,Historical,EV sales share,Cars,EV,2011,percent,0.056000002
+India,Historical,EV sales,Cars,BEV,2011,Vehicles,1400
+India,Historical,EV stock,Cars,BEV,2011,Vehicles,1300
+India,Historical,EV stock,Cars,BEV,2012,Vehicles,2800
+India,Historical,EV sales,Cars,BEV,2012,Vehicles,190
+India,Historical,EV sales share,Cars,EV,2012,percent,0.0072
+India,Historical,EV stock share,Cars,EV,2012,percent,0.012
+India,Historical,Oil displacement Mbd,Cars,EV,2012,Milion barrels per day,4.50E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2012,"Oil displacement, million lge",2.599999905
+India,Historical,Oil displacement Mbd,Cars,EV,2013,Milion barrels per day,5.00E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2013,"Oil displacement, million lge",2.900000095
+India,Historical,EV stock share,Cars,EV,2013,percent,0.012
+India,Historical,EV sales share,Cars,EV,2013,percent,0.016000001
+India,Historical,EV sales,Cars,BEV,2013,Vehicles,410
+India,Historical,EV stock,Cars,BEV,2013,Vehicles,2900
+India,Historical,EV stock,Cars,BEV,2014,Vehicles,3400
+India,Historical,EV sales,Cars,BEV,2014,Vehicles,1000
+India,Historical,EV sales share,Cars,EV,2014,percent,0.037999999
+India,Historical,EV stock share,Cars,EV,2014,percent,0.013
+India,Historical,Oil displacement Mbd,Cars,EV,2014,Milion barrels per day,6.50E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2014,"Oil displacement, million lge",3.700000048
+India,Historical,Oil displacement Mbd,Cars,EV,2015,Milion barrels per day,7.40E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2015,"Oil displacement, million lge",4.199999809
+India,Historical,EV stock share,Cars,EV,2015,percent,0.015
+India,Historical,EV sales share,Cars,EV,2015,percent,0.017000001
+India,Historical,EV sales,Cars,BEV,2015,Vehicles,450
+India,Historical,EV stock,Cars,BEV,2015,Vehicles,4400
+India,Historical,EV stock,Cars,BEV,2016,Vehicles,4800
+India,Historical,EV sales,Cars,BEV,2016,Vehicles,730
+India,Historical,EV sales share,Cars,EV,2016,percent,0.026000001
+India,Historical,EV stock share,Cars,EV,2016,percent,0.015
+India,Historical,Oil displacement Mbd,Cars,EV,2016,Milion barrels per day,8.40E-05
+India,Historical,"Oil displacement, million lge",Cars,EV,2016,"Oil displacement, million lge",4.800000191
+India,Historical,Oil displacement Mbd,Cars,EV,2017,Milion barrels per day,1.00E-04
+India,Historical,"Oil displacement, million lge",Cars,EV,2017,"Oil displacement, million lge",5.800000191
+India,Historical,EV stock share,Cars,EV,2017,percent,0.021
+India,Historical,EV sales share,Cars,EV,2017,percent,0.030999999
+India,Historical,EV sales,Cars,BEV,2017,Vehicles,920
+India,Historical,EV stock,Cars,BEV,2017,Vehicles,7000
+India,Historical,EV stock,Cars,BEV,2018,Vehicles,7900
+India,Historical,EV sales,Cars,BEV,2018,Vehicles,920
+India,Historical,EV sales share,Cars,EV,2018,percent,0.029999999
+India,Historical,EV stock share,Cars,EV,2018,percent,0.022
+India,Historical,Oil displacement Mbd,Cars,EV,2018,Milion barrels per day,0.00011
+India,Historical,"Oil displacement, million lge",Cars,EV,2018,"Oil displacement, million lge",6.599999905
+India,Historical,Oil displacement Mbd,Cars,EV,2019,Milion barrels per day,0.00012
+India,Historical,"Oil displacement, million lge",Cars,EV,2019,"Oil displacement, million lge",7
+India,Historical,EV stock share,Cars,EV,2019,percent,0.022
+India,Historical,EV sales,Cars,PHEV,2019,Vehicles,7
+India,Historical,EV sales share,Cars,EV,2019,percent,0.024
+India,Historical,EV sales,Cars,BEV,2019,Vehicles,680
+India,Historical,EV stock,Cars,BEV,2019,Vehicles,8600
+India,Historical,EV stock,Cars,PHEV,2019,Vehicles,7
+India,Historical,Electricity demand,Cars,EV,2019,GWh,0.0039
+India,Historical,Electricity demand,Cars,EV,2020,GWh,0.023
+India,Historical,EV stock,Cars,PHEV,2020,Vehicles,50
+India,Historical,EV stock,Cars,BEV,2020,Vehicles,12000
+India,Historical,EV sales,Cars,BEV,2020,Vehicles,3100
+India,Historical,EV sales share,Cars,EV,2020,percent,0.119999997
+India,Historical,EV sales,Cars,PHEV,2020,Vehicles,43
+India,Historical,EV stock share,Cars,EV,2020,percent,0.028999999
+India,Historical,Oil displacement Mbd,Cars,EV,2020,Milion barrels per day,0.00015
+India,Historical,"Oil displacement, million lge",Cars,EV,2020,"Oil displacement, million lge",8.5
+India,Historical,Oil displacement Mbd,Cars,EV,2021,Milion barrels per day,0.00035
+India,Historical,"Oil displacement, million lge",Cars,EV,2021,"Oil displacement, million lge",20
+India,Historical,EV stock share,Cars,EV,2021,percent,0.054000001
+India,Historical,EV sales,Cars,PHEV,2021,Vehicles,50
+India,Historical,EV sales,Cars,FCEV,2021,Vehicles,1
+India,Historical,EV stock,Cars,FCEV,2021,Vehicles,1
+India,Historical,EV sales share,Cars,EV,2021,percent,0.349999994
+India,Historical,EV sales,Cars,BEV,2021,Vehicles,12000
+India,Historical,EV stock,Cars,BEV,2021,Vehicles,23000
+India,Historical,EV stock,Cars,PHEV,2021,Vehicles,100
+India,Historical,Electricity demand,Cars,EV,2021,GWh,0.052999999
+India,Historical,Electricity demand,Cars,EV,2022,GWh,0.074000001
+India,Historical,EV stock,Cars,PHEV,2022,Vehicles,120
+India,Historical,EV stock,Cars,BEV,2022,Vehicles,72000
+India,Historical,EV sales,Cars,BEV,2022,Vehicles,48000
+India,Historical,EV sales share,Cars,EV,2022,percent,1.200000048
+India,Historical,EV stock,Cars,FCEV,2022,Vehicles,3
+India,Historical,EV sales,Cars,FCEV,2022,Vehicles,2
+India,Historical,EV sales,Cars,PHEV,2022,Vehicles,23
+India,Historical,EV stock share,Cars,EV,2022,percent,0.150000006
+India,Historical,Oil displacement Mbd,Cars,EV,2022,Milion barrels per day,0.0013
+India,Historical,"Oil displacement, million lge",Cars,EV,2022,"Oil displacement, million lge",72
+India,Historical,Oil displacement Mbd,Cars,EV,2023,Milion barrels per day,0.0026
+India,Historical,"Oil displacement, million lge",Cars,EV,2023,"Oil displacement, million lge",150
+India,Historical,EV stock share,Cars,EV,2023,percent,0.310000002
+India,Historical,EV sales,Cars,PHEV,2023,Vehicles,270
+India,Historical,EV stock,Cars,FCEV,2023,Vehicles,3
+India,Historical,EV sales share,Cars,EV,2023,percent,2
+India,Historical,EV sales,Cars,BEV,2023,Vehicles,82000
+India,Historical,EV stock,Cars,BEV,2023,Vehicles,150000
+India,Historical,EV stock,Cars,PHEV,2023,Vehicles,390
+India,Historical,Electricity demand,Cars,EV,2023,GWh,410
+India,Historical,EV sales share,Buses,EV,2015,percent,0.109999999
+India,Historical,EV stock share,Buses,EV,2015,percent,0.0054
+India,Historical,EV sales,Buses,BEV,2015,Vehicles,100
+India,Historical,EV stock,Buses,BEV,2015,Vehicles,100
+India,Historical,Oil displacement Mbd,Buses,EV,2015,Milion barrels per day,2.20E-05
+India,Historical,"Oil displacement, million lge",Buses,EV,2015,"Oil displacement, million lge",1.299999952
+India,Historical,Oil displacement Mbd,Buses,EV,2016,Milion barrels per day,2.40E-05
+India,Historical,"Oil displacement, million lge",Buses,EV,2016,"Oil displacement, million lge",1.399999976
+India,Historical,EV stock,Buses,BEV,2016,Vehicles,100
+India,Historical,EV sales,Buses,BEV,2016,Vehicles,25
+India,Historical,EV stock share,Buses,EV,2016,percent,0.0052
+India,Historical,EV sales share,Buses,EV,2016,percent,0.027000001
+India,Historical,EV sales share,Buses,EV,2017,percent,0.023
+India,Historical,EV stock share,Buses,EV,2017,percent,0.0051
+India,Historical,EV sales,Buses,BEV,2017,Vehicles,20
+India,Historical,EV stock,Buses,BEV,2017,Vehicles,100
+India,Historical,Oil displacement Mbd,Buses,EV,2017,Milion barrels per day,2.60E-05
+India,Historical,"Oil displacement, million lge",Buses,EV,2017,"Oil displacement, million lge",1.5
+India,Historical,Oil displacement Mbd,Buses,EV,2018,Milion barrels per day,6.70E-05
+India,Historical,"Oil displacement, million lge",Buses,EV,2018,"Oil displacement, million lge",3.900000095
+India,Historical,EV stock,Buses,BEV,2018,Vehicles,100
+India,Historical,EV sales,Buses,BEV,2018,Vehicles,210
+India,Historical,EV stock share,Buses,EV,2018,percent,0.005
+India,Historical,EV sales share,Buses,EV,2018,percent,0.280000001
+India,Historical,EV sales share,Buses,EV,2019,percent,0.689999998
+India,Historical,EV stock share,Buses,EV,2019,percent,0.027000001
+India,Historical,EV sales,Buses,BEV,2019,Vehicles,460
+India,Historical,EV stock,Buses,BEV,2019,Vehicles,550
+India,Historical,Oil displacement Mbd,Buses,EV,2019,Milion barrels per day,0.00015
+India,Historical,"Oil displacement, million lge",Buses,EV,2019,"Oil displacement, million lge",8.800000191
+India,Historical,Oil displacement Mbd,Buses,EV,2020,Milion barrels per day,0.00052
+India,Historical,"Oil displacement, million lge",Buses,EV,2020,"Oil displacement, million lge",30
+India,Historical,EV stock,Buses,BEV,2020,Vehicles,1100
+India,Historical,EV sales,Buses,BEV,2020,Vehicles,2200
+India,Historical,EV sales,Buses,FCEV,2020,Vehicles,49
+India,Historical,EV stock share,Buses,EV,2020,percent,0.057
+India,Historical,EV sales share,Buses,EV,2020,percent,6
+India,Historical,EV sales share,Buses,EV,2021,percent,7.5
+India,Historical,EV stock share,Buses,EV,2021,percent,0.109999999
+India,Historical,EV sales,Buses,BEV,2021,Vehicles,1200
+India,Historical,EV stock,Buses,BEV,2021,Vehicles,2100
+India,Historical,Oil displacement Mbd,Buses,EV,2021,Milion barrels per day,0.00071
+India,Historical,"Oil displacement, million lge",Buses,EV,2021,"Oil displacement, million lge",41
+India,Historical,Oil displacement Mbd,Buses,EV,2022,Milion barrels per day,0.0011
+India,Historical,"Oil displacement, million lge",Buses,EV,2022,"Oil displacement, million lge",61
+India,Historical,EV stock,Buses,BEV,2022,Vehicles,3100
+India,Historical,EV sales,Buses,BEV,2022,Vehicles,2000
+India,Historical,EV sales,Buses,FCEV,2022,Vehicles,49
+India,Historical,EV stock share,Buses,EV,2022,percent,0.159999996
+India,Historical,EV sales share,Buses,EV,2022,percent,6.199999809
+India,Historical,EV sales share,Buses,EV,2023,percent,6.800000191
+India,Historical,EV stock share,Buses,EV,2023,percent,0.439999998
+India,Historical,EV sales,Buses,FCEV,2023,Vehicles,2
+India,Historical,EV stock,Buses,FCEV,2023,Vehicles,100
+India,Historical,EV sales,Buses,BEV,2023,Vehicles,2300
+India,Historical,EV stock,Buses,BEV,2023,Vehicles,8400
+India,Historical,Oil displacement Mbd,Buses,EV,2023,Milion barrels per day,0.0033
+India,Historical,"Oil displacement, million lge",Buses,EV,2023,"Oil displacement, million lge",190
+India,Historical,Electricity demand,Buses,EV,2023,GWh,790
+India,Historical,EV charging points,EV,Publicly available fast,2016,charging points,25
+India,Historical,EV charging points,EV,Publicly available fast,2017,charging points,25
+India,Historical,EV charging points,EV,Publicly available slow,2017,charging points,220
+India,Historical,EV charging points,EV,Publicly available fast,2018,charging points,25
+India,Historical,EV charging points,EV,Publicly available slow,2018,charging points,330
+India,Historical,EV charging points,EV,Publicly available fast,2019,charging points,25
+India,Historical,EV charging points,EV,Publicly available slow,2019,charging points,330
+India,Historical,EV charging points,EV,Publicly available fast,2020,charging points,25
+India,Historical,EV charging points,EV,Publicly available slow,2020,charging points,330
+India,Historical,EV charging points,EV,Publicly available fast,2021,charging points,32
+India,Historical,EV charging points,EV,Publicly available slow,2021,charging points,910
+India,Historical,EV charging points,EV,Publicly available fast,2022,charging points,4100
+India,Historical,EV charging points,EV,Publicly available slow,2022,charging points,6800
+India,Historical,Oil displacement Mbd,Trucks,EV,2022,Milion barrels per day,1.1E-06
+India,Historical,"Oil displacement, million lge",Trucks,EV,2022,"Oil displacement, million lge",0.064000003
+India,Historical,Electricity demand,Trucks,EV,2022,GWh,0.239999995
